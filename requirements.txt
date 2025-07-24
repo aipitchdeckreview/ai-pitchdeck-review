@@ -3,6 +3,6 @@ uvicorn
 python-pptx
 pdf2image==1.16.3
 Pillow
-openai
+openai==0.28
 aiofiles
 python-multipart
