@@ -1,0 +1,8 @@
+
+fastapi
+uvicorn
+python-pptx
+pdf2image
+Pillow
+openai
+aiofiles
